@@ -1,6 +1,6 @@
-# 🛡️ WebSite Scanner Light
+# 🛡️ WebSite Scanner Dark
 
-Professional websayt tahlil va skanerlash vositasi. Ligh rejimda. Saytlarni xavfsizlik, performance va texnologik jihatdan tekshiring.
+Professional websayt tahlil va skanerlash vositasi. Dark rejimda. Saytlarni xavfsizlik, performance va texnologik jihatdan tekshiring.
 
 ## ✨ Asosiy xususiyatlar
 - 🌐 Domen ma'lumotlari tahlili (registrar, ro'yxat sanasi, amal qilish muddati)
